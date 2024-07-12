@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #3ab97e;
+    padding: 75px;
+
+}
+
+.typos {
+    color: white;
+}
+
+h1 {
+    margin-bottom: 100px;
+    padding-left: 385px;
+}
+
+#state {
+    margin: 60px;
+    padding-top: 400px;
+    font-size: 30px;
+}
+
+.inputs {
+
+    scale: 2;
+    margin: 100px;
+    padding-left: 385px;
+    padding-top: 100px;
+}
+
+#feedBack {
+    padding-left: 315px;
+    font-size: 30px;
+}
